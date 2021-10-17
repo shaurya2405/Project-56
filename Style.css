@@ -1,0 +1,27 @@
+h1 {
+font-family: 'Festive', cursive;    
+}
+body {
+text-align: center;
+    background-image: linear-gradient(orange 0%, green 50%, red 100%);
+}
+p {
+font-family: 'Caveat', cursive;
+font-size:25px;     
+}
+div {
+margin-top: 15px;    
+}
+.image-section {
+display: flex;    
+justify-content: center;    
+}
+.section-style {
+margin-right: 25px;
+margin-left: 25px; 
+background-color: white;
+}
+img {
+width: 450px;
+height: 300px;    
+}
